@@ -3,10 +3,6 @@
 ## 工具及框架
 * 主要框架：SpringBoot + Spring MVC + JPA
 
-exam-hr-sys-001 偉哲
-exam-hr-sys-002 宜君
-exam-hr-sys-003 伊媃
-
 ## 資料庫
 |資料表名稱|資料表說明|備註|
 |-|--|--|
